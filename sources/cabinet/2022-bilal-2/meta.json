@@ -1,0 +1,17 @@
+{
+    "jurisdiction": {
+        "name": "Mauritania",
+        "id": "Q1025"
+    },
+    "cabinet": {
+      "id":     "Q113115745",
+      "start":  "2022-04-01",
+      "parent": "Q3112595"
+    },
+    "reference": {
+        "P4656": "https://en.wikipedia.org/wiki/Second_government_of_Mohamed_Ould_Bilal"
+    },
+    "person_description": {
+        "en": "politician in Mauritania"
+    }
+}
