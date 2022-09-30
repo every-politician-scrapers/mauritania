@@ -1,0 +1,77 @@
+{
+  "title": "Mohamed Ali Ould Sidi Mohamed",
+  "pageID": 9973276,
+  "categories": [
+    "Living people",
+    "Government ministers of Mauritania",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "Energy ministers of Mauritania",
+    "21st-century Mauritanian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mohamed Ali Ould Sidi Mohamed was the Minister of Energy and Oil of Mauritania under the transitional military regime that led the country from August 2005 to April 2007.",
+              "links": [
+                {
+                  "text": "Minister",
+                  "type": "internal",
+                  "page": "Minister (government)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mauritania"
+                },
+                {
+                  "text": "military regime",
+                  "type": "internal",
+                  "page": "military regime"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mohamed Ali Ould Sidi Mohamed"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mauritanian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.panapress.com/newslatf.asp?code=eng102357&dte=02/01/2006",
+          "title": "Mauritania increases oil prices",
+          "publisher": "Panapress",
+          "date": "2006-02-01",
+          "accessdate": "2010-01-17",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "mauritania-politician-stub"
+        }
+      ]
+    }
+  ]
+}
