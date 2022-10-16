@@ -4,12 +4,13 @@
   "categories": [
     "1956 births",
     "Living people",
-    "Mauritanian military personnel",
-    "Mauritanian Sufis",
     "People from Assaba Region",
-    "Union for the Republic (Mauritania) politicians",
     "Presidents of Mauritania",
     "Defence ministers of Mauritania",
+    "Mauritanian military personnel",
+    "Mauritanian Sufis",
+    "Union for the Republic (Mauritania) politicians",
+    "20th-century Mauritian people",
     "21st-century Mauritanian politicians"
   ],
   "sections": [
@@ -760,12 +761,23 @@
       "templates": [
         {
           "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commons category-inline"
         },
         {
-          "template": "commons category"
-        },
-        {
-          "template": "wikiquote"
+          "template": "wikiquote-inline"
         },
         {
           "template": "s-start"
@@ -786,16 +798,13 @@
           "template": "s-inc"
         },
         {
-          "template": "mauritanianpresidents"
+          "template": "presidents of mauritania"
         },
         {
           "template": "heads of state of republics"
         },
         {
-          "template": "arab country leaders"
-        },
-        {
-          "template": "authority control"
+          "template": "leaders of arab league member states"
         },
         {
           "template": "mauritania-bio-stub"
