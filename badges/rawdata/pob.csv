@@ -1,0 +1,66 @@
+item,itemLabel,rank,pob,pobLabel,hasCountry,hasAdmin,hasref,refitem,exurl,wmurl,wmproj
+Q110288009,Kane Hamidou Baba,NormalRank,Q153407,Tékane,true,true,true,false,false,false,true
+Q114107123,Mohamed Salem Ould Merzoug,,,,,,false,,,,
+Q114293058,Abdessalam Ould Mohamed Saleh,,,,,,false,,,,
+Q114293059,Adama Bokar Soko,,,,,,false,,,,
+Q114293061,Aissata Daouda Diallo,,,,,,false,,,,
+Q114293062,Brahim Vall Ould Mohamed Lemine,,,,,,false,,,,
+Q114293063,Cheikh Ahmedou Ould Ahmed Salem Ould Sidi,,,,,,false,,,,
+Q114293064,Cheikh El Kebir Moulaye Taher,,,,,,false,,,,
+Q114293065,Dah Ould Sidi Ould Amar Taleb,,,,,,false,,,,
+Q114293066,Coumba Ba,,,,,,false,,,,
+Q114293067,Fatimetou Mint Mahfoudh Ould Khattri,,,,,,false,,,,
+Q114293069,Hanana Ould Sidi,,,,,,false,,,,
+Q114293072,Isselmou Ould Mohamed M'bady,,,,,,false,,,,
+Q114293073,Khattar Ould Cheibani,,,,,,false,,,,
+Q114293074,Lalya Ali Camara,,,,,,false,,,,
+Q114293075,Lam Moctar Alhousseyni,,,,,,false,,,,
+Q114293076,Lamrabott Ould Bennahi,,,,,,false,,,,
+Q114293078,Mohamed Ahmed Ould Mohamed Lemine,,,,,,false,,,,
+Q114293080,Mohamed Lemine Ould Dhehby,,,,,,false,,,,
+Q114293081,Mohamed Mahmoud Ould Cheikh Abdoullah Ould Boya,,,,,,false,,,,
+Q114293082,Mohamed Melainine Ould Eyih,,,,,,false,,,,
+Q114293083,Mohamed Ould Abdalahi Ould Ethmane,,,,,,false,,,,
+Q114293084,Mohamed Ould Abedeen Ould Ameyev,,,,,,false,,,,
+Q114293085,Mohamed Ould Soueidatt,,,,,,false,,,,
+Q114293087,Moktar Ahmed Yedali,,,,,,false,,,,
+Q114293088,Moktar Ould Dahi,,,,,,false,,,,
+Q114293090,Nany Ould Chrougha,,,,,,false,,,,
+Q114293091,Niang Mamoudou,,,,,,false,,,,
+Q114293092,Ousmane Mamoudou Kane,,,,,,false,,,,
+Q114293093,Sidi Mohamed Ould Taleb Omar,,,,,,false,,,,
+Q114293094,Zeinebou Mint Ahmednah,,,,,,false,,,,
+Q11849927,Ahmed Ould Teguedi,NormalRank,Q312357,Chinguetti,true,true,true,false,false,false,true
+Q12194248,Naha Mint Mouknass,NormalRank,Q3688,Nouakchott,true,true,true,false,true,false,false
+Q12241106,Mohamed Ould Ghazouani,NormalRank,Q930718,Boumdeid,true,true,false,,,,
+Q1371357,Yahya Ould Ahmed El Waghef,NormalRank,Q3325436,Moudjeria,true,true,false,,,,
+Q16733931,Ismail Ould Cheikh Ahmed,NormalRank,Q3688,Nouakchott,true,true,true,false,false,false,true
+Q184941,Zeine Ould Zeidane,NormalRank,Q2600843,Tamchekett,true,true,true,false,false,false,true
+Q20109508,Ahamdy Ould Hamady,NormalRank,Q492778,Kiffa,true,true,false,,,,
+Q2820945,Abdallahi Hassen Ben Hmeida,,,,,,false,,,,
+Q28739928,Vatma Vall Mint Soueina,NormalRank,Q175596,Ayoun el Atrous,true,true,false,,,,
+Q2877629,Ba Mamadou Mbaré,NormalRank,Q3565343,Waly Diantang,true,true,true,false,false,false,true
+Q294969,Mohamed Ould Abdel Aziz,NormalRank,Q419544,Akjoujt,true,true,true,false,false,false,true
+Q310203,Sidi Ould Cheikh Abdallahi,NormalRank,Q986384,Aleg,true,true,true,false,false,false,true
+Q3126304,Hamadi Ould Baba Ould Hamadi,NormalRank,Q3325436,Moudjeria,true,true,true,false,false,false,true
+Q313662,Maaouya Ould Sid'Ahmed Taya,NormalRank,Q735645,Atar,true,true,true,false,false,false,true
+Q3155412,Ismail Ould Bedde Ould Cheikh Sidiya,NormalRank,Q895292,Boutilimit,true,true,false,,,,
+Q325511,Cheikh El Avia Ould Mohamed Khouna,NormalRank,Q2844051,Amourj,true,true,false,,,,
+Q3318670,Mohamed Lemine Ould Aboye Ould Cheikh El Hadrami,NormalRank,Q2844051,Amourj,true,true,true,false,false,false,true
+Q3318869,Mohamed Vall Ould Bellal,NormalRank,Q2579658,Magta-Lahjar,true,true,false,,,,
+Q3571335,Yahya Ould Hademine,NormalRank,Q986057,Timbedra,true,true,true,false,false,false,true
+Q4118153,Mohamed Mahmoud Ould Mohamedou,NormalRank,Q735645,Atar,true,true,true,false,false,false,true
+Q440509,Moulaye Ould Mohamed Laghdaf,NormalRank,Q752257,Néma,true,true,true,false,false,false,true
+Q451521,Ely Ould Mohamed Vall,NormalRank,Q3688,Nouakchott,true,true,true,false,false,false,true
+Q4695972,Ahmed Ould Sid'Ahmed,NormalRank,Q757041,Tidjikja,true,true,true,false,false,false,true
+Q5208703,Dah Ould Abdi,,,,,,false,,,,
+Q56064138,Hamadi Ould Meimou,,,,,,false,,,,
+Q56064168,Isselkou Ould Ahmed Izid Bih,,,,,,false,,,,
+Q5715910,Baba Ahmed Ould Sidi Mohamed,,,,,,false,,,,
+Q58014343,Mohamed Salem Ould Béchir,NormalRank,Q850435,Hodh El Gharbi Region,true,true,true,false,false,false,true
+Q608538,Mohamed Saleck Ould Mohamed Lemine,NormalRank,Q492778,Kiffa,true,true,true,false,false,false,true
+Q6891015,Mohamed Ali Ould Sidi Mohamed,,,,,,false,,,,
+Q6891431,Mohamed Ould Tolba,,,,,,false,,,,
+Q712775,Sidi Mohamed Ould Boubacar,NormalRank,Q735645,Atar,true,true,true,false,false,false,true
+Q773245,Sghair Ould M'Bareck,NormalRank,Q752257,Néma,true,true,true,false,false,false,true
+Q98137599,Mohamed Ould Bilal,NormalRank,Q861580,Rosso,true,true,true,false,false,true,true
